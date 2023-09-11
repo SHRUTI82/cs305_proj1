@@ -1,0 +1,43 @@
+.list{
+    width: 100%;
+    margin-top: 10px;
+
+    .nameList{
+        color: white;
+        font-size: 20px;
+        font-weight: 450;
+        margin-left: 40px;
+    }
+
+    .arrow{
+        width: 40px;
+        height: 100%;
+        background-color: rgba(20,20,20,0.5);
+        color: white;
+        position: absolute;
+        z-index: 99;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        cursor: pointer;
+
+        &.left{
+            left: 0;
+        }
+
+        &.right{
+            right: 0;
+        }
+    }
+    .onelist{
+        position: relative;
+        .onelistContainer{
+            margin-top: 10px;
+            margin-left: 40px;
+            display: flex;
+            width: max-content;
+            transform: translateX(0px);
+            transition: all 0.5s ease;
+        }
+    }
+}
