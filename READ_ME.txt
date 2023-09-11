@@ -2,7 +2,7 @@ CS3305 Project
 
 Group no 4
 
-PROJECT TITLE : Netflix Clone
+PROJECT TITLE : Web Streaming Platform like Netflix
 
 System Requirements - 
 
@@ -71,8 +71,3 @@ TECH STACK USED -
 3. Express js (backend)
 4. Mongo db (database)
 
-GROUP MEMBERS - 
-Shruti Sikri (2020CSB1128)
-Shruti Gangwar (2020CSB1127)
-Tsering Wangzes (2020CSB1136)
-Ayushi Patel (2020CSB1080)
