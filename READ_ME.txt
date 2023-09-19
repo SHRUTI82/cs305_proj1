@@ -54,20 +54,3 @@ Running Test Cases -
 Yarn test --coverage --> to run test and generate report 
 
 
-
-ABOUT THIS PROJECT - 
-
-We have created an online movies/series streaming platform. 
-The user can 
-	sign up/sign in to his profile and logout
-	get the information about the content on the platform
-	watch content
-	run a search for movies or series
-	create his "watch list" in which he can add movies and series
-
-TECH STACK USED -
-1. React js (frontend)
-2. Node js (backend) 
-3. Express js (backend)
-4. Mongo db (database)
-
